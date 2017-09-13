@@ -1,0 +1,57 @@
+ul {
+    padding: 0px;
+    margin: 0px;
+        
+}
+
+.um {
+    background-color: #27ae60;
+    margin: 5px;
+    max-width: 100%;
+    padding: 60px 60px 60px 28px;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+    text-transform: uppercase;
+    
+}
+
+.dois, .tres, .quatro {
+    padding: 60px 60px 60px 28px;
+    background-color: #4a4a4a;
+    margin: 5px;
+    max-width: 100%;
+    max-height: 100%;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.um:hover {
+    background-color: rgba(39, 174, 95, 0.8);
+}
+
+.dois:hover, .tres:hover, .quatro:hover {
+    background-color: rgba(74, 73, 74, 0.8);
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.seta {
+    float: right;
+    max-width: 100%;
+}
+
+p {
+    display: inline;
+    margin: 20px;
+    vertical-align: super;
+}

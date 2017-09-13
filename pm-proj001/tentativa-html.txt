@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Oscar 2017</title>
+        <link rel="stylesheet" href="estilo.css">
+        </head>
+<body>
+   <h1 id="P-1">Oscar 2017</h1>
+   <h2 id="P-2">Indicados Melhor Filme</h2>
+      
+    <div id="1">La La Land</div>
+    <div id="2">A chegada</div>
+    <div id="3">Lion</div>
+    <div id="4">Hell or High Water</div>
+    <div id="5">Estrelas Além do Tempo</div>
+    <div id="6">MoonLight: Sob a Luz do Luar</div> 
+    <div id="7">Hacksaw Ridge</div> 
+    <div id="8">Manchester à beira mar</div>
+    <div id="9">Um limite entre nós</div> 
+            </body>
+</html>

@@ -1,0 +1,27 @@
+body {
+font-family: arial;
+background-color: #ecf0f1;
+color: black;
+}
+
+div {
+    font: 18px arial;
+    margin: 12px;
+    padding: 12px;
+    background-color: #9b59b6;
+    margin: 12px;  
+    align-items: center;
+    color: white;
+   
+}
+
+#P-1 {
+    text-align: center;
+    margin-bottom: 0px;
+    }
+
+#P-2 {
+    text-align: center;
+    margin-top: 0px;
+    text-transform:uppercase;
+}
